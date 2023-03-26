@@ -1,0 +1,19 @@
+.green-border {
+  border: 2px solid green !important;
+}
+
+.green-border:focus {
+  border-color: green !important;
+  outline-color: green !important;
+  box-shadow: 0 0 0 1px green !important;
+}
+
+.red-border {
+  border: 2px solid red !important;
+}
+
+.red-border:focus {
+  border-color: red !important;
+  outline-color: red !important;
+  box-shadow: 0 0 0 1px red !important;
+}
